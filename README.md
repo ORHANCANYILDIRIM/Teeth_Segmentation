@@ -1,3 +1,6 @@
+For All Code Source:
+https://drive.google.com/drive/folders/1rH5lgawejazVmthRykXA-ARF7V5Alg-2?usp=sharing
+
 # Panoramik X-ışını Görüntüsünde Dişlerin Semantik Segmentasyonu
 
 Bu çalışmanın amacı, diş bozukluklarının, hastalıklarının ve durumlarının yönetimi için tanısal bilgi sağlamak amacıyla, U-Net Modeli ve ikili görüntü analizi ile derin öğrenme yöntemi kullanılarak tek çekim panoramik röntgen görüntüsünde dişlerin otomatik semantik segmentasyonu ve toplam uzunluğunun ölçülmesidir.
